@@ -10,8 +10,8 @@
   react-app
   ***
   ## Usage
-https://github.com/mainmaster84/book-search-engine
-https://radiant-cove-66300.herokuapp.com/
+  https://github.com/mainmaster84/book-search-engine
+  https://dashboard.heroku.com/apps/safe-savannah-30591
   ***
   ## Credits
   Ronald Main
