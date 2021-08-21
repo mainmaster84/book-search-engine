@@ -11,7 +11,7 @@
   ***
   ## Usage
   https://github.com/mainmaster84/book-search-engine
-  https://dashboard.heroku.com/apps/safe-savannah-30591
+  https://secure-chamber-31767.herokuapp.com/
   ***
   ## Credits
   Ronald Main
